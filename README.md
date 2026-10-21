@@ -1,4 +1,4 @@
-# SWE / 26 — Conference Planner
+# WE / 26 — Conference Planner
 
 A single-file, mobile-friendly personal planner for WE26. It includes expenses and reimbursements, applications, workshops, a daily itinerary, company priorities, and networking contacts.
 
